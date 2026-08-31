@@ -1,0 +1,10 @@
+# 机器相关 / 密钥 / 可再生内容，一律不进 dotfiles
+.pi/agent/auth.json
+.pi/agent/npm
+.pi/agent/git
+.pi/agent/sessions
+.pi/agent/models.json
+.pi/agent/models-store.json
+.pi/agent/trust.json
+.pi/agent/extension-settings
+.pi/agent/settings.json.bak
